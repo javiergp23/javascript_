@@ -17,4 +17,5 @@ form.addEventListener('submit', (event) => {
 
 console.log(localStorage.getItem('dataKey'));
 
+
 })
