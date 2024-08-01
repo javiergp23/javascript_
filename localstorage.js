@@ -14,7 +14,7 @@ form.addEventListener('submit', (event) => {
         alert('Datos guardados en LocalStorage');
     }
 })
-
+// obtener los datos guardados en el LocalStorage
 console.log(localStorage.getItem('dataKey'));
 
 
