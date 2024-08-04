@@ -11,7 +11,6 @@ function cargarEventListeners(){
 
 }
 
-
 // Funciones
 function agregarCurso(){
     console.log('presionando en cursos')
